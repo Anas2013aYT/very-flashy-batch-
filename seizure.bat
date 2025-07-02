@@ -25,4 +25,5 @@ echo COMPUTER SEIZURE!!!!!!!
 echo COMPUTER SEIZURE!!!!!!!!!
 echo COMPUTER SEIZURE!!!!!!!
 echo COMPUTER SEIZURE!!!
+color 83
 goto red
