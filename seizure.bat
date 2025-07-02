@@ -10,6 +10,7 @@ echo COMPUTER SEIZURE!!!!!!!
 echo COMPUTER SEIZURE!!!!!!!!!
 goto blue
 :blue
+color 32
 echo COMPUTER SEIZURE!!!!!!!
 echo COMPUTER SEIZURE!!!
 goto red
