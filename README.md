@@ -1,3 +1,3 @@
-# very-flashy-batch-
+# very-flashy-batch i made this becuz im bored -
 epilepsy warning
-#i made this becuz i was bored
+
